@@ -105,12 +105,12 @@
             "01 OpenTaiko Chapter I\\005 - WTF\\wtf.png"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "63baec5b0e0582aaf3af2624a9eaa1fe",
+        "tjaMD5": "f3a9ee4f04f37d7d76f09d217575df82",
         "chartSize": 3.2,
         "chartTitle": "WTF?!",
         "chartSubtitle": "Moox",
         "chartDifficulties": {
-            "Edit": 10.4,
+            "Edit": 10.3,
             "Oni": 8,
             "Hard": 6,
             "Normal": 5,
@@ -480,7 +480,7 @@
             "01 OpenTaiko Chapter I\\020 - Slayer of\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "c9d22dd4bea24ca213a26509585040f6",
+        "tjaMD5": "9bef2ce99ba6f520f54a3075aabb4b99",
         "chartSize": 1.26,
         "chartTitle": "Slayer of.",
         "chartSubtitle": "Aden Mayo",
@@ -1389,13 +1389,13 @@
             "02 OpenTaiko Chapter II\\055 - NEKROS\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f22a3a1ce36f4ceeb3ad4cfb84e71309",
+        "tjaMD5": "4a3ed21c6ed23df2e7f1e0583de73a76",
         "chartSize": 1.98,
         "chartTitle": "NEKROS",
         "chartSubtitle": "GRYSCL",
         "chartDifficulties": {
             "Edit": 11.0,
-            "Oni": 10.2,
+            "Oni": 10.0,
             "Hard": 8,
             "Normal": 6,
             "Easy": 4
@@ -1706,7 +1706,7 @@
             "02 OpenTaiko Chapter II\\067 - Liar Prison\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "90cb7e59c2c7d5914795c2e6391ccff8",
+        "tjaMD5": "2dc4b258a2db8e920f8cfaa4e4e4aa34",
         "chartSize": 4.15,
         "chartTitle": "Liar Prison",
         "chartSubtitle": "SiLiS ft. Karin Natsuki",
@@ -1738,7 +1738,7 @@
             "02 OpenTaiko Chapter II\\069 - Vanaheimr\\Vanaheimr.tja"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "ff64bdb67c18e5c5edb35b8ee348642e",
+        "tjaMD5": "4e81f6d7b2011e2d98df20b98ea32ee3",
         "chartSize": 2.75,
         "chartTitle": "Vanaheimr",
         "chartSubtitle": "SiLiS",
@@ -1957,7 +1957,7 @@
             "02 OpenTaiko Chapter II\\079 - MECHANICAL GOD\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "360a077e9d50da0d17866884b9897ecd",
+        "tjaMD5": "e43ded9f22c46e4f8a056833499979ac",
         "chartSize": 1.56,
         "chartTitle": "MECHANICAL GOD",
         "chartSubtitle": "AZALI \u00d7 Crow",
@@ -1966,7 +1966,7 @@
             "Normal": 4,
             "Hard": 6,
             "Oni": 8,
-            "Edit": 10.6
+            "Edit": 10.4
         },
         "chartMakers": {
             "Easy": "Komi",
@@ -4415,6 +4415,38 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "OpTkCh4NostalgicMagic",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.mp4",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.ogg",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.png",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.tja",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.vtt",
+            "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "62af5c615868201c1b491485d7101ecd",
+        "chartSize": 60.76,
+        "chartTitle": "Nostalgic Magic",
+        "chartSubtitle": "TAK aka. Tokky feat. Otome Ame",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "DragonRatTiger",
+            "Normal": "DragonRatTiger",
+            "Easy": "DragonRatTiger"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\175 - Nostalgic Magic\\nostalgic.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "SimpleXOFFICiAlAz3",
         "tjaFolderPath": "04 OpenTaiko Chapter IV\\176 - Sim-plex",
         "tjaFilesPath": [
@@ -4536,6 +4568,130 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "kAThARSiS9cmAkotorArEMIx9CmAkotoRa",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\180 - Katharsis Remix",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.ogg",
+            "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.png",
+            "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.tja",
+            "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "4198874f7d260bc7295a078edcb48b9f",
+        "chartSize": 2.79,
+        "chartTitle": "Katharsis (9C + Makotora Remix)",
+        "chartSubtitle": "9C + Makotora",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\180 - Katharsis Remix\\Katharsis.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "DReaMscapemAKOtOrA",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\182 - dreamscape",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.ogg",
+            "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.png",
+            "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.tja",
+            "05 OpenTaiko Chapter V\\182 - dreamscape\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "3de1eff976c34b473a54806657ba22ed",
+        "chartSize": 2.48,
+        "chartTitle": "dreamscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\182 - dreamscape\\dreamscape.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "LimELIteaTToclEf",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\184 - Limelite",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.jpg",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.ogg",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.tja",
+            "05 OpenTaiko Chapter V\\184 - Limelite\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "7a04e45b5a78fb3e8607fda12cc894f8",
+        "chartSize": 2.41,
+        "chartTitle": "Limelite",
+        "chartSubtitle": "Attoclef",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Normal": 7,
+            "Easy": 5,
+            "Oni": 9,
+            "Hard": 8
+        },
+        "chartMakers": {
+            "Edit": "bol",
+            "Normal": "DiamondN1nja",
+            "Easy": "Komi",
+            "Oni": "Taichenko",
+            "Hard": "Dashy"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\184 - Limelite\\Limelite.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "SKYfallCHroNOn",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\186 - Skyfall",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.tja",
+            "05 OpenTaiko Chapter V\\186 - Skyfall\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "a8ec80f379281369d1ab7fbdd3a76b05",
+        "chartSize": 3.09,
+        "chartTitle": "Skyfall",
+        "chartSubtitle": "chronon",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3,
+            "Edit": 9
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Edit": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [
@@ -4544,7 +4700,7 @@
             "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "afdd33de47d02f9c8e6554bfea978c41",
+        "tjaMD5": "1f335dc88b03333f527fe4350e533e9a",
         "chartSize": 1.97,
         "chartTitle": "Deceiving the Deceiver",
         "chartSubtitle": "H5",
