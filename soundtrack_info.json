@@ -916,12 +916,13 @@
         "tjaFolderPath": "01 OpenTaiko Chapter I\\040 - Every Night",
         "tjaFilesPath": [
             "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.ogg",
+            "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.png",
             "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.tja",
             "01 OpenTaiko Chapter I\\040 - Every Night\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "cc02e9450dcc658d5c381991ea02641a",
-        "chartSize": 7.86,
+        "tjaMD5": "794885b13b65d2f2a8f9ff09fc5be333",
+        "chartSize": 7.87,
         "chartTitle": "Every Night",
         "chartSubtitle": "RachelTypeX",
         "chartDifficulties": {
@@ -937,7 +938,7 @@
             "Easy": "Colin"
         },
         "chartAudioFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.ogg",
-        "chartJacketFilePath": null,
+        "chartJacketFilePath": "01 OpenTaiko Chapter I\\040 - Every Night\\Every Night.png",
         "chartHoFRanks": {}
     },
     {
@@ -4628,6 +4629,36 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "JUnkETsAltEd",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\183 - junket",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\183 - junket\\hyper.jpg",
+            "05 OpenTaiko Chapter V\\183 - junket\\junket.ogg",
+            "05 OpenTaiko Chapter V\\183 - junket\\junket.tja",
+            "05 OpenTaiko Chapter V\\183 - junket\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "ea0ef93391c7fb1e4f4c12949081c3df",
+        "chartSize": 2.4,
+        "chartTitle": "junket",
+        "chartSubtitle": "Salted",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\183 - junket\\junket.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\183 - junket\\hyper.jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "LimELIteaTToclEf",
         "tjaFolderPath": "05 OpenTaiko Chapter V\\184 - Limelite",
         "tjaFilesPath": [
@@ -4637,7 +4668,7 @@
             "05 OpenTaiko Chapter V\\184 - Limelite\\uniqueId.json"
         ],
         "tjaGenreFolder": "05 OpenTaiko Chapter V",
-        "tjaMD5": "7a04e45b5a78fb3e8607fda12cc894f8",
+        "tjaMD5": "df86dc7eb431c9d90c5ed7c8d6a8b48c",
         "chartSize": 2.41,
         "chartTitle": "Limelite",
         "chartSubtitle": "Attoclef",
@@ -4689,6 +4720,128 @@
         },
         "chartAudioFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.ogg",
         "chartJacketFilePath": "05 OpenTaiko Chapter V\\186 - Skyfall\\Skyfall.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "iNSiGniABReAkERcUZi",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\187 - Insignia Breaker",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.ogg",
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.tja",
+            "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "f25d21af6e6792f1ed381140b8284e1c",
+        "chartSize": 3.88,
+        "chartTitle": "Insignia Breaker",
+        "chartSubtitle": "CuZi",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\187 - Insignia Breaker\\Insignia Breaker.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "CaNdygIrLotOMeameCoMPOsITIOnkaNI",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\189 - Candy Girl",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.tja",
+            "05 OpenTaiko Chapter V\\189 - Candy Girl\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "e7def67dc1950d4c1728b91f84f1ff18",
+        "chartSize": 16.96,
+        "chartTitle": "Candy Girl",
+        "chartSubtitle": "Otome Ame (Composition: kani)",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Normal": 4,
+            "Easy": 3,
+            "Hard": 6
+        },
+        "chartMakers": {
+            "Oni": "Takkkom",
+            "Normal": "Takkkom",
+            "Easy": "Takkkom",
+            "Hard": "Takkkom"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\189 - Candy Girl\\Candy Girl.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NiJiHaKIRaiotomEAMEComPOsITioNShiTSUDOkEi",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\Niji wa Kirai.tja",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.ogg",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.png",
+            "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "6d684dc14a7b501e4f1468705f266771",
+        "chartSize": 4.87,
+        "chartTitle": "Niji wa Kirai",
+        "chartSubtitle": "Otome Ame (Composition: Shitsudo Kei)",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2,
+            "Oni": 6
+        },
+        "chartMakers": {
+            "Edit": "Yokoyoko",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi",
+            "Oni": "Komi"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.ogg",
+        "chartJacketFilePath": "05 OpenTaiko Chapter V\\190 - Niji ha Kirai\\niji.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pUrgATORYOftheOOTdMasAmuNEVsH5",
+        "tjaFolderPath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD",
+        "tjaFilesPath": [
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.tja",
+            "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "05 OpenTaiko Chapter V",
+        "tjaMD5": "810202e79445680b609ecb860c305290",
+        "chartSize": 4.59,
+        "chartTitle": "Purgatory of the OOTD",
+        "chartSubtitle": "Masamune vs. H5",
+        "chartDifficulties": {
+            "Edit": 11.1,
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "bol,lob",
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "05 OpenTaiko Chapter V\\191 - Rengoku no OOTD\\OOTD.ogg",
+        "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
